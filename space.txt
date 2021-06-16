@@ -1,0 +1,5 @@
+LastName FirstName Email FavoriteColor DateOfBirth
+Nimble Jack jack@gmail.com blue 08/01/2000
+Sheppard Bob sheps@gmail.com red 05/21/1980
+Heise Michael heise@outlook.com green 11/02/1974
+Hill Sarah awesome@yahoo.com pink 01/03/1983
