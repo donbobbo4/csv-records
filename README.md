@@ -14,4 +14,4 @@ Options:
   
       -f, --filename  filename to parse                          [string] [required]
 
-      -t, comma,pipe, or space
+      -t, comma,pipe, or spaces
