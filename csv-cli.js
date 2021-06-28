@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const parser = require('./parser.js');
+const parser = require('./utils/parser');
 const yargs = require("yargs");
 //function main(args) {
    

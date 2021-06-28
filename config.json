@@ -1,0 +1,6 @@
+{
+    "default": {
+        "file" : "comma.txt",
+        "type" : ","
+    }
+}

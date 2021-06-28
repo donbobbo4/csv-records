@@ -1,15 +1,7 @@
 const assert = require('assert');
 const expect = require('chai').expect;
-const parser = require('../parser.js');
+const parser = require('../utils/parser.js');
 
-
-describe('Array', function () {
-    describe('#indexOf()', function () {
-        it('should return -1 when the value is not present', function () {
-            assert.equal([1, 2, 3].indexOf(4), -1);
-        });
-    });
-});
 
 describe('parser tests', function () {
     let commaData;
